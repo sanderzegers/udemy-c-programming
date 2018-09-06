@@ -1,0 +1,3 @@
+!"#$%&'()*+,-./0123456789:;<=>?@ABCDEFGHIJKLMNOPQRSTUVWXYZ[\]^_`abcd
+Test123!!
+This just works like the printf function: 32

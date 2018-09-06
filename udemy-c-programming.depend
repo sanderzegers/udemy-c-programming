@@ -1,0 +1,104 @@
+# depslib dependency file v1.0
+1536170932 source:c:\users\administrator\documents\github\udemy-c-programming\challenge-chapter105.c
+
+1536172873 source:c:\users\administrator\documents\github\udemy-c-programming\challenge-chapter107.c
+	<stdio.h>
+	<stdlib.h>
+
+1536227671 source:c:\users\administrator\documents\github\udemy-c-programming\challenge-chapter114.c
+	<stdio.h>
+
+1535569562 source:c:\users\administrator\documents\github\udemy-c-programming\challenge-chapter24.c
+	<stdlib.h>
+
+1535570231 source:c:\users\administrator\documents\github\udemy-c-programming\challenge-chapter25.c
+
+1535636445 source:c:\users\administrator\documents\github\udemy-c-programming\challenge-chapter33.c
+
+1535639220 source:c:\users\administrator\documents\github\udemy-c-programming\challenge-chapter35.c
+
+1535641478 source:c:\users\administrator\documents\github\udemy-c-programming\challenge-chapter40.c
+
+1535644272 source:c:\users\administrator\documents\github\udemy-c-programming\challenge-chapter45.c
+	<stdlib.h>
+	<time.h>
+	<stdio.h>
+
+1535672297 source:c:\users\administrator\documents\github\udemy-c-programming\challenge-chapter51.c
+	<stdio.h>
+	<stdbool.h>
+
+1536099916 source:c:\users\administrator\documents\github\udemy-c-programming\challenge-chapter53.c
+	<stdio.h>
+
+1535712532 source:c:\users\administrator\documents\github\udemy-c-programming\challenge-chapter60.c
+	<stdio.h>
+	<math.h>
+
+1535729306 source:c:\users\administrator\documents\github\udemy-c-programming\challenge-chapter62.c
+	<stdio.h>
+	<stdbool.h>
+
+1535908188 source:c:\users\administrator\documents\github\udemy-c-programming\challenge-chapter70.c
+	<stdio.h>
+	<stdbool.h>
+
+1535986777 source:c:\users\administrator\documents\github\udemy-c-programming\challenge-chapter72.c
+	<stdio.h>
+	<stdlib.h>
+	<stdbool.h>
+	<string.h>
+
+1536078678 source:c:\users\administrator\documents\github\udemy-c-programming\challenge-chapter92.c
+	<stdio.h>
+
+1536079548 source:c:\users\administrator\documents\github\udemy-c-programming\challenge-chapter96.c
+	<stdio.h>
+
+1536097862 source:c:\users\administrator\documents\github\udemy-c-programming\challenge-chapter98.c
+	<stdlib.h>
+	<stdio.h>
+
+1536141944 source:c:\users\administrator\documents\github\udemy-c-programming\chapter100.c
+	<stdio.h>
+
+1536143667 source:c:\users\administrator\documents\github\udemy-c-programming\chapter101.c
+	<stdio.h>
+
+1536169931 source:c:\users\administrator\documents\github\udemy-c-programming\chapter103.c
+	<stdio.h>
+	<stdlib.h>
+
+1536227150 source:c:\users\administrator\documents\github\udemy-c-programming\chapter110.c
+	<stdio.h>
+	<stdlib.h>
+
+1535568103 source:c:\users\administrator\documents\github\udemy-c-programming\chapter23.c
+	<stdio.h>
+
+1535575576 source:c:\users\administrator\documents\github\udemy-c-programming\chapter30.c
+
+1535636208 source:c:\users\administrator\documents\github\udemy-c-programming\chapter31.c
+
+1535639399 source:c:\users\administrator\documents\github\udemy-c-programming\chapter39.c
+
+1535649388 source:c:\users\administrator\documents\github\udemy-c-programming\chapter48.c
+	<stdio.h>
+
+1535902823 source:c:\users\administrator\documents\github\udemy-c-programming\chapter67.c
+	<stdio.h>
+	<string.h>
+
+1536018030 source:c:\users\administrator\documents\github\udemy-c-programming\chapter81.c
+	<stdio.h>
+
+1536057178 source:c:\users\administrator\documents\github\udemy-c-programming\chapter86.c
+	<stdio.h>
+
+1536061526 source:c:\users\administrator\documents\github\udemy-c-programming\chapter91.c
+	<stdlib.h>
+
+1536227811 source:c:\users\administrator\documents\github\udemy-c-programming\main.c
+	<stdio.h>
+	<stdlib.h>
+
